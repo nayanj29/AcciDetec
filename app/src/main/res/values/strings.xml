@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AcciDetec</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="username">Username / EmailID</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="password">Password</string>
+    <string name="no_name">Enter Name</string>
+    <string name="incorrect_mobile">Enter Correct mobile no</string>
+
+
+    <string name="vehicle_name">Enter Vehicle Name</string>
+    <string name="vehicle_no">Enter Vehicle No</string>
+    <string name="vehicle_brand">Enter Vehicle Brand</string>
+    <string name="vehicle_driver_name">Enter Vehicle Driver Name</string>
+    <string name="vehicle_model">Enter Vehicle Model</string>
+
+
+
+
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_proceed">Proceed</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
